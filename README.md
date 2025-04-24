@@ -67,7 +67,5 @@ A fully-featured **MERN Stack** based web application with dedicated portals for
 - Optimized for all modern browsers
 - Clean and minimal Tailwind CSS-powered interfaces
 
----
-
-## 📁 Project Structure
+--
 
